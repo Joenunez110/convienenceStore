@@ -1,2 +1,2 @@
 # convienenceStore
-This is a program constructed from Python that would imitate all of the functions a small convenience store would need. 
+This is a program constructed from Python that would imitate all of the functions a small convenience store would need. With this program you would be able to update store stock after purchasing an item and ordering items. There is also functions to set up manager privilages and employee privilages which would restrict employees from ordering stock, providing certain discounts, etc. but also allowing them to complete purchases with customers.
